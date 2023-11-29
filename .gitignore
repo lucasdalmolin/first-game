@@ -1,0 +1,6 @@
+# Directories
+dist/           # This is the build process will output code.
+node_modules/ 
+
+#Notas
+notes/
